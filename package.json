@@ -1,0 +1,33 @@
+{
+  "name": "simplestaskstimer",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "simplestaskstimer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suseinose/simplestaskstimer"
+  },
+  "website": "https://github.com/suseinose/simplestaskstimer.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "suseinose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suseinose/simplestaskstimer/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/suseinose/simplestaskstimer#readme",
+  "dependencies": {
+    "createfolders": "1.0.2"
+  }
+}
